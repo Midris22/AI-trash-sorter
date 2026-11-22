@@ -1,0 +1,4 @@
+tensorflow==2.21.0
+tf-keras==2.21.0
+opencv-python==5.1.0.95
+Pillow==13.0.0

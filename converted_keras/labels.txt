@@ -1,0 +1,4 @@
+0 Paper
+1 Plastic
+2 Compost
+3 Trash
